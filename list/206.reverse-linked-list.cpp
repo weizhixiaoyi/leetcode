@@ -6,7 +6,6 @@
 
 #include <iostream>
 #include <algorithm>
-
 using namespace std;
 
 struct ListNode {
@@ -53,6 +52,13 @@ int main() {
     l1_2->next = l1_3;
     l1_3->next = l1_4;
     ListNode *l1 = l1_1;
+
+    ListNode* l2_1 = new ListNode(1);
+    ListNode* l2_2 = new ListNode(3);
+    ListNode* l2_3 = new ListNode(4);
+    l2_1->next = l2_2;
+    l2_2->next = l2_3;
+    ListNode* l2 = l2_1;
 
     Solution solution;
     ListNode *result = solution.reverseList(l1);
