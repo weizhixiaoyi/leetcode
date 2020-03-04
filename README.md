@@ -11,3 +11,6 @@ leetcode: [https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/prob
 2020.03.03, medium, [19.remove-nth-node-from-end-of-list](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)  
 2020.03.03, medium, [142.linked-list-cycle-ii](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
 
+#### Stack
+2020.03.03, easy, [155.min-stack](https://leetcode-cn.com/problems/min-stack/)  
+2020.03.04, easy, [20.valid-parentheses](https://leetcode-cn.com/problems/valid-parentheses/)  
