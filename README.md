@@ -16,3 +16,4 @@ leetcode: [https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/prob
 2020.03.04, easy, [155.min-stack](https://leetcode-cn.com/problems/min-stack/)  
 2020.03.04, easy, [20.valid-parentheses](https://leetcode-cn.com/problems/valid-parentheses/)  
 2020.03.04, medium, [739.daily-temperatures](https://leetcode-cn.com/problems/daily-temperatures/)  
+2020.03.05, medium, [394.decode-string](https://leetcode-cn.com/problems/decode-string/)  
