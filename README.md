@@ -16,4 +16,8 @@ leetcode: [https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/prob
 2020.03.04, easy, [155.min-stack](https://leetcode-cn.com/problems/min-stack/)  
 2020.03.04, easy, [20.valid-parentheses](https://leetcode-cn.com/problems/valid-parentheses/)  
 2020.03.04, medium, [739.daily-temperatures](https://leetcode-cn.com/problems/daily-temperatures/)  
-2020.03.05, medium, [394.decode-string](https://leetcode-cn.com/problems/decode-string/)  
+2020.03.06, medium, [394.decode-string](https://leetcode-cn.com/problems/decode-string/)  
+
+### Tree
+2020.03.07, easy, [101.symmetric-tree](https://leetcode-cn.com/problems/symmetric-tree/)  
+2020.03.07, easy, [104.maximum-depth-of-binary-tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)  
