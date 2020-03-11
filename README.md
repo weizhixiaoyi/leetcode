@@ -24,3 +24,5 @@ leetcode: [https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/prob
 2020.03.08, easy, [226.invert-binary-tree](https://leetcode-cn.com/problems/invert-binary-tree/)  
 2020.03.08, easy, [617.merge-two-binary-trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)  
 2020.03.08, medium, [94.binary-tree-inorder-traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)  
+2020.03.11, easy, [538.convert-bst-to-greater-tree](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)  
+2020.03.11, medium, [114.flatten-binary-tree-to-linked-list](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)  

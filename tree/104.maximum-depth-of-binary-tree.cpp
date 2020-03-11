@@ -28,30 +28,6 @@ public:
         // 归并过程, 将栈里面信息计算出来.
         return max(left, right) + 1;
     }
-
-    bool depth(TreeNode *root, int &res) {
-        if (root == NULL) return false;
-
-//        bool left = true, right = true;
-
-
-        bool left = depth(root->left, res);
-        bool right = depth(root->right, res);
-//        if (root->left) {
-//
-//        }
-//        if (root->right) {
-//
-//        }
-//        cout << res << endl;
-        //
-        cout << "left: " << depth(root->left, res) << endl;
-        cout << "right: " << depth(root->left, res) << endl;
-//        if (left || right){
-//            res += 1;
-//            cout << res << endl;
-//        }
-    }
 };
 
 int main() {
