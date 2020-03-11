@@ -57,6 +57,7 @@ public:
     bool isSymmetric(TreeNode *root) {
         queue<TreeNode*> q;
 
+
         q.push(root); q.push(root);
         while(!q.empty()){
             TreeNode *t1 = q.front(); q.pop();
