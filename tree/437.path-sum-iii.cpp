@@ -1,4 +1,4 @@
-// Created by Eric on 2020/3/11.
+// Created by Eric on 2020/3/13.
 
 #include <iostream>
 #include <algorithm>
@@ -37,26 +37,13 @@ void PrintTree(TreeNode *root) {
     cout << endl;
 }
 
-// HINT
-// 当前节点的最大值等于左子树的最高层数+右子树的最高层树.
 class Solution {
 public:
-    int res = 0;
-    int diameterOfBinaryTree(TreeNode* root) {
-        maxdiameter(root);
-        return res;
-    }
+    int pathSum(TreeNode* root, int sum) {
 
-    int maxdiameter(TreeNode *root){
-        if (root == nullptr){
-            return 0;
-        }
 
-        int lheight = maxdiameter(root->left);
-        int rheight = maxdiameter(root->right);
-        res = max(res, lheight + rheight);
 
-        return max(lheight, rheight)+ 1;
+
     }
 };
 
@@ -67,12 +54,15 @@ int main(){
     auto *l14 = new TreeNode(4);
     auto *l15 = new TreeNode(5);
 
-    l11->left= l12;
-//    l11->right = l13;
-//    l12->left = l14;
-//    l12->right = l15;
+    l11->left = l12;
+    l11->right = l13;
+    l12->left = l14;
+    l13->right = l15;
+    int sum = 5;
 
     Solution solution;
-    int res = solution.diameterOfBinaryTree(l11);
+    int res = solution.pathSum(l11, sum);
     cout << res << endl;
 }
+
+

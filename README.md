@@ -18,7 +18,7 @@ leetcode: [https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/prob
 2020.03.04, medium, [739.daily-temperatures](https://leetcode-cn.com/problems/daily-temperatures/)  
 2020.03.06, medium, [394.decode-string](https://leetcode-cn.com/problems/decode-string/)  
 
-### Tree
+#### Tree
 2020.03.07, easy, [101.symmetric-tree](https://leetcode-cn.com/problems/symmetric-tree/)  
 2020.03.07, easy, [104.maximum-depth-of-binary-tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)  
 2020.03.08, easy, [226.invert-binary-tree](https://leetcode-cn.com/problems/invert-binary-tree/)  
@@ -27,3 +27,9 @@ leetcode: [https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/prob
 2020.03.11, easy, [538.convert-bst-to-greater-tree](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)  
 2020.03.11, medium, [114.flatten-binary-tree-to-linked-list](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)  
 2020.03.11, medium, [102.binary-tree-level-order-traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)  
+2020.03.13, easy, [543.diameter-of-binary-tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/)   
+2020.03.13, medium, [105.construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  
+
+#### Array
+2020.03.13, easy, [53.maximum-subarray](https://leetcode-cn.com/problems/maximum-subarray/)
+
