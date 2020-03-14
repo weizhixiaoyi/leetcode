@@ -29,7 +29,7 @@ leetcode: [https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/prob
 2020.03.11, medium, [102.binary-tree-level-order-traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)  
 2020.03.13, easy, [543.diameter-of-binary-tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/)   
 2020.03.13, medium, [105.construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  
-
+2020.03.14, medium, [236.lowest-common-ancestor-of-a-binary-tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)  
 #### Array
 2020.03.13, easy, [53.maximum-subarray](https://leetcode-cn.com/problems/maximum-subarray/)
 
