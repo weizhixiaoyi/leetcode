@@ -37,28 +37,73 @@ void PrintTree(TreeNode *root) {
     cout << endl;
 }
 
+// HINT
+// 将问题转变为层次遍历+从root开始有多少个值为sum的数，最后全部加在一起。
+// 层次遍历利用队列是心啊，和为sum利用递归实现。
+
 class Solution {
 public:
-    int pathSum(TreeNode* root, int sum) {
+    int pathSum(TreeNode *root, int sum) {
+        if (root == nullptr) {
+            return 0;
+        }
+        queue<TreeNode *> q;
+        int res = 0, cur_sum = 0, cur_num = 0;
 
+        q.push(root);
+        while (!q.empty()) {
+            TreeNode *temp = q.front(); q.pop();
+//            cout << temp->val << ":\t";
+            Sum(temp, sum, cur_sum, cur_num); res += cur_num; cur_num = 0;
+//            cout << "#\t" << cur << endl;
 
+            if (temp->left) {
+                q.push(temp->left);
+            }
+            if (temp->right) {
+                q.push(temp->right);
+            }
+        }
+        return res;
+    }
 
+    void Sum(TreeNode *root, int sum, int cur_sum, int &cur_num) {
+        if (root == nullptr) {
+            return;
+        }
 
+        cur_sum += root->val;
+        if (cur_sum == sum){
+            cur_num += 1;
+        }
+
+        Sum(root->left, sum, cur_sum, cur_num);
+        Sum(root->right, sum, cur_sum, cur_num);
     }
 };
 
-int main(){
+int main() {
     auto *l11 = new TreeNode(1);
-    auto *l12 = new TreeNode(2);
-    auto *l13 = new TreeNode(3);
-    auto *l14 = new TreeNode(4);
-    auto *l15 = new TreeNode(5);
+    auto *l12 = new TreeNode(-2);
+    auto *l13 = new TreeNode(-3);
+    auto *l14 = new TreeNode(1);
+    auto *l15 = new TreeNode(3);
+    auto *l16 = new TreeNode(-2);
+    auto *l17 = new TreeNode(-1);
+//    auto *l18 = new TreeNode(-2);
+//    auto *l19 = new TreeNode(1);
 
     l11->left = l12;
     l11->right = l13;
     l12->left = l14;
-    l13->right = l15;
-    int sum = 5;
+    l12->right = l15;
+    l13->left = l16;
+    l14->left = l17;
+//    l14->right = l18;
+//    l15->right = l19;
+    int sum = -1;
+
+    PrintTree(l11);
 
     Solution solution;
     int res = solution.pathSum(l11, sum);

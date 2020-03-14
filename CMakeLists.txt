@@ -1,4 +1,4 @@
 cmake_minimum_required(VERSION 3.6)
 project(leetcode)
 set(CMAKE_CXX_STANDARD 11)
-add_executable(leetcode tree/236.lowest-common-ancestor-of-a-binary-tree.cpp)
+add_executable(leetcode tree/437.path-sum-iii.cpp)

@@ -59,9 +59,8 @@ public:
 
         bool equal = false;
         if (root == p || root == q) {
-             equal = true;
+            equal = true;
         }
-
         if ((left && right) || (left && equal) || (right && equal)) {
             res = root;
         }
