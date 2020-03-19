@@ -54,8 +54,9 @@ public:
         while (!q.empty()) {
             TreeNode *temp = q.front(); q.pop();
 //            cout << temp->val << ":\t";
-            Sum(temp, sum, cur_sum, cur_num); res += cur_num; cur_num = 0;
-//            cout << "#\t" << cur << endl;
+            Sum(temp, sum, cur_sum, cur_num); res += cur_num;
+//            cout << "#\t" << cur_num << endl;
+            cur_num = 0;
 
             if (temp->left) {
                 q.push(temp->left);
@@ -73,6 +74,7 @@ public:
         }
 
         cur_sum += root->val;
+//        cout << cur_sum << " ";
         if (cur_sum == sum){
             cur_num += 1;
         }
@@ -83,15 +85,15 @@ public:
 };
 
 int main() {
-    auto *l11 = new TreeNode(1);
-    auto *l12 = new TreeNode(-2);
+    auto *l11 = new TreeNode(10);
+    auto *l12 = new TreeNode(5);
     auto *l13 = new TreeNode(-3);
-    auto *l14 = new TreeNode(1);
-    auto *l15 = new TreeNode(3);
-    auto *l16 = new TreeNode(-2);
-    auto *l17 = new TreeNode(-1);
-//    auto *l18 = new TreeNode(-2);
-//    auto *l19 = new TreeNode(1);
+    auto *l14 = new TreeNode(3);
+    auto *l15 = new TreeNode(2);
+    auto *l16 = new TreeNode(11);
+    auto *l17 = new TreeNode(3);
+    auto *l18 = new TreeNode(-2);
+    auto *l19 = new TreeNode(1);
 
     l11->left = l12;
     l11->right = l13;
@@ -99,9 +101,9 @@ int main() {
     l12->right = l15;
     l13->left = l16;
     l14->left = l17;
-//    l14->right = l18;
-//    l15->right = l19;
-    int sum = -1;
+    l14->right = l18;
+    l15->right = l19;
+    int sum = 8;
 
     PrintTree(l11);
 
