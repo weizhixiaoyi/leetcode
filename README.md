@@ -30,7 +30,13 @@ leetcode: [https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/prob
 2020.03.13, easy, [543.diameter-of-binary-tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/)   
 2020.03.13, medium, [105.construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  
 2020.03.14, medium, [236.lowest-common-ancestor-of-a-binary-tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)  
-2020.03.14, easy, [437.path-sum-iii](https://leetcode-cn.com/problems/path-sum-iii/) 
+2020.03.14, easy, [437.path-sum-iii](https://leetcode-cn.com/problems/path-sum-iii/)   
+2020.03.19, easy, [96.unique-binary-search-trees](https://leetcode-cn.com/problems/unique-binary-search-trees/)  
+2020.03.20, hard, [297.serialize-and-deserialize-binary-tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
+
 #### Array
 2020.03.13, easy, [53.maximum-subarray](https://leetcode-cn.com/problems/maximum-subarray/)  
-2020.03.19, easy, [96.unique-binary-search-trees](https://leetcode-cn.com/problems/unique-binary-search-trees/)
+2020.05.03, easy, [121.best-time-to-buy-and-sell-stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)  
+2020.05.03, easy, [169.majority-element](https://leetcode-cn.com/problems/majority-element/)  
+2020.05.03, easy, [283.move-zeroes](https://leetcode-cn.com/problems/move-zeroes/)  
+2020.05.03, easy, [448.448.find-all-numbers-disappeared-in-an-array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)  

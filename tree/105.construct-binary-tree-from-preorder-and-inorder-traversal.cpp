@@ -67,8 +67,8 @@ public:
 };
 
 int main() {
-    vector<int> preorder = {3, 9, 20, 15, 7};
-    vector<int> inorder = {9, 3, 15, 20, 7};
+    vector<int> preorder = {3, 2, 3, 4};
+    vector<int> inorder = {3, 2, 3, 4};
 
     Solution solution;
     TreeNode *res = solution.buildTree(preorder, inorder);
