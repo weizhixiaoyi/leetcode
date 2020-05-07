@@ -44,3 +44,6 @@ leetcode: [https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/prob
 2020.05.04, medium, [11.container-with-most-water](https://leetcode-cn.com/problems/container-with-most-water/)  
 2020.05.04, medium, [560.subarray-sum-equals-k](https://leetcode-cn.com/problems/subarray-sum-equals-k/)  
 2020.05.04, medium, [287.find-the-duplicate-number](https://leetcode-cn.com/problems/find-the-duplicate-number/)  
+2020.05.07, medium, [238.product-of-array-except-self](https://leetcode-cn.com/problems/product-of-array-except-self/)  
+2020.05.07, medium, [38.rotate-image](https://leetcode-cn.com/problems/rotate-image/)  
+2020.05.07, medium, [78.subsets](https://leetcode-cn.com/problems/subsets/)   
