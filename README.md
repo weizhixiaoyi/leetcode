@@ -47,3 +47,6 @@ leetcode: [https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/prob
 2020.05.07, medium, [238.product-of-array-except-self](https://leetcode-cn.com/problems/product-of-array-except-self/)  
 2020.05.07, medium, [38.rotate-image](https://leetcode-cn.com/problems/rotate-image/)  
 2020.05.07, medium, [78.subsets](https://leetcode-cn.com/problems/subsets/)   
+2020.05.08, medium, [64.minimum-path-sum](https://leetcode-cn.com/problems/minimum-path-sum/)   
+2020.05.08, medium, [300.longest-increasing-subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)  
+2020.05.08, medium, [70.climbing-stairs](https://leetcode-cn.com/problems/climbing-stairs)  
