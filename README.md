@@ -50,3 +50,6 @@ leetcode: [https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/prob
 2020.05.08, medium, [64.minimum-path-sum](https://leetcode-cn.com/problems/minimum-path-sum/)   
 2020.05.08, medium, [300.longest-increasing-subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)  
 2020.05.08, medium, [70.climbing-stairs](https://leetcode-cn.com/problems/climbing-stairs)  
+2020.05.09, medium, [198.house-robber](https://leetcode-cn.com/problems/house-robber/)   
+2020.05.09, medium, [62.unique-paths](https://leetcode-cn.com/problems/unique-paths/)   
+2020.05.09, medium, [279.perfect-squares](https://leetcode-cn.com/problems/perfect-squares/)  
