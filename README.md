@@ -46,6 +46,8 @@ leetcode: [https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/prob
 2020.05.04, medium, [287.find-the-duplicate-number](https://leetcode-cn.com/problems/find-the-duplicate-number/)  
 2020.05.07, medium, [238.product-of-array-except-self](https://leetcode-cn.com/problems/product-of-array-except-self/)  
 2020.05.07, medium, [38.rotate-image](https://leetcode-cn.com/problems/rotate-image/)  
+
+#### dp
 2020.05.07, medium, [78.subsets](https://leetcode-cn.com/problems/subsets/)   
 2020.05.08, medium, [64.minimum-path-sum](https://leetcode-cn.com/problems/minimum-path-sum/)   
 2020.05.08, medium, [300.longest-increasing-subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)  
@@ -53,3 +55,6 @@ leetcode: [https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/prob
 2020.05.09, medium, [198.house-robber](https://leetcode-cn.com/problems/house-robber/)   
 2020.05.09, medium, [62.unique-paths](https://leetcode-cn.com/problems/unique-paths/)   
 2020.05.09, medium, [279.perfect-squares](https://leetcode-cn.com/problems/perfect-squares/)  
+2020.05.12, medium, [5.longest-palindromic-substring](https://leetcode-cn.com/problems/longest-palindromic-substring/)   
+2020.05.12, medium, [1143.longest-common-subsequence](https://leetcode-cn.com/problems/longest-common-subsequence/)  
+2020.05.12, medium, [516.longest-palindromic-subsequence](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)  
