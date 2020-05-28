@@ -46,8 +46,30 @@ class Solution:
         return dp[m][n]
 
 
+# 自下而上的递归实现
+class Solution1:
+    import functools
+    # functools是将计算结果缓存，节省内存，记住python递归时利用此函数
+    @functools.lru_cache(None)
+    def minDistance(self, word1: str, word2: str) -> int:
+        # 递归的停止条件而不是最终的返回结果，比如肯定不是返回len(word1) + len(word2)，而是
+        # 将此值返回给下面调用的位置self.minDistance(x, y)
+        if len(word1) == 0 or len(word2) == 0:
+            print("1: ", len(word1) + len(word2))
+            return len(word1) + len(word2)
+
+        if word1[-1] == word2[-1]:
+            return self.minDistance(word1[:-1], word2[:-1])
+        else:
+            insert = self.minDistance(word1, word2[:-1]) + 1
+            delete = self.minDistance(word1[:-1], word2) + 1
+            replace = self.minDistance(word1[:-1], word2[:-1]) + 1
+            print("2: ", min(insert, delete, replace))
+            return min(insert, delete, replace)
+
+
 if __name__ == '__main__':
     word1, word2 = "horse", "ros"
-    solution = Solution()
+    solution = Solution1()
     ans = solution.minDistance(word1, word2)
     print('ans: ', ans)
