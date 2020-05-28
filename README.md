@@ -58,3 +58,7 @@ leetcode: [https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/prob
 2020.05.12, medium, [5.longest-palindromic-substring](https://leetcode-cn.com/problems/longest-palindromic-substring/)   
 2020.05.12, medium, [1143.longest-common-subsequence](https://leetcode-cn.com/problems/longest-common-subsequence/)  
 2020.05.12, medium, [516.longest-palindromic-subsequence](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)  
+2020.05.28, medium, [72.edit-distance](https://leetcode-cn.com/problems/edit-distance/)  
+
+#### other
+2020.05.28, easy, [461.hamming-distance](https://leetcode-cn.com/problems/hamming-distance/)  

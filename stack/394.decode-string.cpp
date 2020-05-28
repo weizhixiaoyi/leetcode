@@ -78,7 +78,7 @@ public:
 //        return result;
 //
 //    }
-
+//    3[a]2[b4[F]c]
     string decodeString(string s) {
         stack<map<string, int>> temp;
         int multi = 0;
