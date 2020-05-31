@@ -55,7 +55,7 @@ class Solution1:
         # 递归的停止条件而不是最终的返回结果，比如肯定不是返回len(word1) + len(word2)，而是
         # 将此值返回给下面调用的位置self.minDistance(x, y)
         if len(word1) == 0 or len(word2) == 0:
-            print("1: ", len(word1) + len(word2))
+            # print("1: ", len(word1) + len(word2))
             return len(word1) + len(word2)
 
         if word1[-1] == word2[-1]:
@@ -64,7 +64,7 @@ class Solution1:
             insert = self.minDistance(word1, word2[:-1]) + 1
             delete = self.minDistance(word1[:-1], word2) + 1
             replace = self.minDistance(word1[:-1], word2[:-1]) + 1
-            print("2: ", min(insert, delete, replace))
+            # print("2: ", min(insert, delete, replace))
             return min(insert, delete, replace)
 
 

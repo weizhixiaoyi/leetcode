@@ -87,3 +87,17 @@ print(str3.isdecimal()) # 判断是否为字母或者数字的组合
 for c in str1:
     print(c.isalpha())
 """
+
+# list: if... else ...
+"""
+# for后面的if是筛选条件，不能够用else进行判断
+a = [x for x in range(1, 10) if x % 2 == 0]
+print(a)
+
+# for前面是表达式, 必须根据x计算出结果
+b = [x if x % 2 == 0 else None for x in range(1, 10)]
+print(b)
+
+# 总结而言：for前面是表达式, 必须带if else。 for后面是筛选条件，只能带if。
+"""
+
