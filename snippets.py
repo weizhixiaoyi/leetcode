@@ -101,3 +101,9 @@ print(b)
 # 总结而言：for前面是表达式, 必须带if else。 for后面是筛选条件，只能带if。
 """
 
+# 求解二维数组最大值
+"""
+value = [[0, 0, 0, 1], [1, 1, 0, 1], [1, 2, 1, 1], [0, 1, 2, 2], [0, 1, 2, 3]]
+max_value = max(map(max, value))
+print(max_value)
+"""
