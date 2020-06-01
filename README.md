@@ -17,6 +17,7 @@ leetcode: [https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/prob
 2020.03.04, easy, [20.valid-parentheses](https://leetcode-cn.com/problems/valid-parentheses/)  
 2020.03.04, medium, [739.daily-temperatures](https://leetcode-cn.com/problems/daily-temperatures/)  
 2020.03.06, medium, [394.decode-string](https://leetcode-cn.com/problems/decode-string/)  
+2020.06.01, hard, [84.largest-rectangle-in-histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)  
 
 #### Tree
 2020.03.07, easy, [101.symmetric-tree](https://leetcode-cn.com/problems/symmetric-tree/)  
@@ -61,6 +62,7 @@ leetcode: [https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/prob
 2020.05.28, medium, [72.edit-distance](https://leetcode-cn.com/problems/edit-distance/)  
 2020.05.31, medium, [338.count-bits](https://leetcode-cn.com/problems/couting-bits)  
 2020.05.31, medium, [647.palindromic-substrings](https://leetcode-cn.com/problems/palindromic-substrings)  
+2020.06.01, meidum, [221.maximal-square](https://leetcode-cn.com/problems/maximal-square/)  
 
 #### other
 2020.05.28, easy, [461.hamming-distance](https://leetcode-cn.com/problems/hamming-distance/)  
