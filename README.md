@@ -34,6 +34,7 @@ leetcode: [https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/prob
 2020.03.14, easy, [437.path-sum-iii](https://leetcode-cn.com/problems/path-sum-iii/)   
 2020.03.19, easy, [96.unique-binary-search-trees](https://leetcode-cn.com/problems/unique-binary-search-trees/)  
 2020.03.20, hard, [297.serialize-and-deserialize-binary-tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
+2020.06.03, easy, [938.range-sum-of-bst](https://leetcode-cn.com/problems/range-sum-of-bst/)  
 
 #### Array
 2020.03.13, easy, [53.maximum-subarray](https://leetcode-cn.com/problems/maximum-subarray/)  
@@ -63,6 +64,7 @@ leetcode: [https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/prob
 2020.05.31, medium, [338.count-bits](https://leetcode-cn.com/problems/couting-bits)  
 2020.05.31, medium, [647.palindromic-substrings](https://leetcode-cn.com/problems/palindromic-substrings)  
 2020.06.01, meidum, [221.maximal-square](https://leetcode-cn.com/problems/maximal-square/)  
+2020.06.02, hard, [85.maximal-rectange85.maximal-rectange](https://leetcode-cn.com/problems/max-mal-rectange/)  
 
 #### other
 2020.05.28, easy, [461.hamming-distance](https://leetcode-cn.com/problems/hamming-distance/)  
