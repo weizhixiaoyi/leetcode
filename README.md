@@ -67,5 +67,8 @@ leetcode: [https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/prob
 2020.06.01, meidum, [221.maximal-square](https://leetcode-cn.com/problems/maximal-square/)  
 2020.06.02, hard, [85.maximal-rectange85.maximal-rectange](https://leetcode-cn.com/problems/max-mal-rectange/)  
 
+#### recursive
+2020.06.03, medium, [698.partition-to-k-equal-sum-subsets](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/)  
+
 #### other
 2020.05.28, easy, [461.hamming-distance](https://leetcode-cn.com/problems/hamming-distance/)  
