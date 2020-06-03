@@ -35,6 +35,7 @@ leetcode: [https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/prob
 2020.03.19, easy, [96.unique-binary-search-trees](https://leetcode-cn.com/problems/unique-binary-search-trees/)  
 2020.03.20, hard, [297.serialize-and-deserialize-binary-tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
 2020.06.03, easy, [938.range-sum-of-bst](https://leetcode-cn.com/problems/range-sum-of-bst/)  
+2020.06.03, easy, [783.minimum-distance-between-bst-nodes](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/)  
 
 #### Array
 2020.03.13, easy, [53.maximum-subarray](https://leetcode-cn.com/problems/maximum-subarray/)  
