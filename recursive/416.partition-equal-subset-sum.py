@@ -10,12 +10,14 @@ class Solution:
 
         def helper(cur, index):
             diff = cur - nums[index]
+            # 递归截止的条件
             if diff == 0:
                 return True
             if diff < 0:
                 return False
 
             for k in range(index):
+                # 真正进行返回的true
                 if helper(diff, index - k - 1):
                     return True
             return False
