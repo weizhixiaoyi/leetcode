@@ -64,3 +64,7 @@
 2020.06.15, easy, binarysearch, [704.binary-search](https://leetcode-cn.com/problems/binary-search/)  
 2020.06.15, easy, binarysearch, [441.arranging-coins](https://leetcode-cn.com/problems/arranging-coins/)  
 2020.06.15, easy, binarysearch, [367.valid-perfect-square](https://leetcode-cn.com/problems/valid-perfect-square/)  
+2020.06.16, easy, binarysearch, [167.two-sum-ii-input-array-is-sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)  
+2020.06.16, easy, binarysearch, [1351.count-negative-numbers-in-a-sorted-matrix](https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix/)  
+2020.06.16, easy, binarysearch, [436.find-right-interval](https://leetcode-cn.com/problems/find-right-interval/)  
+
