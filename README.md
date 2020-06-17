@@ -67,4 +67,8 @@
 2020.06.16, easy, binarysearch, [167.two-sum-ii-input-array-is-sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)  
 2020.06.16, easy, binarysearch, [1351.count-negative-numbers-in-a-sorted-matrix](https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix/)  
 2020.06.16, easy, binarysearch, [436.find-right-interval](https://leetcode-cn.com/problems/find-right-interval/)  
+2020.06.16, medium, tree, [222.count-complete-tree-nodes](https://leetcode-cn.com/problems/count-complete-tree-nodes/)  
+2020.06.17, easy, binarysearch, [744.find-smallest-letter-greater-than-target](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/)  
+2020.06.17, medium, binarysearch, [74.search-a-2d-matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/)  
+2020.06.17, medium, tree, [98.validate-binary-search-tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)  
 
