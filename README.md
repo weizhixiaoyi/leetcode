@@ -75,4 +75,4 @@
 2020.06.18, easy, tree, [111.二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)  
 2020.06.18, easy, tree, [404.左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/)  
 2020.06.18, easy, tree, [112.路径总和](https://leetcode-cn.com/problems/path-sum/)  
-2020.06.18, easy, tree, [113.路径总和II](https://leetcode-cn.com/problems/path-sum-ii/)  
+2020.06.18, medium, tree, [113.路径总和II](https://leetcode-cn.com/problems/path-sum-ii/)  
