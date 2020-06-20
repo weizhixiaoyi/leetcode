@@ -76,3 +76,8 @@
 2020.06.18, easy, tree, [404.左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/)  
 2020.06.18, easy, tree, [112.路径总和](https://leetcode-cn.com/problems/path-sum/)  
 2020.06.18, medium, tree, [113.路径总和II](https://leetcode-cn.com/problems/path-sum-ii/)  
+2020.06.20, easy, tree, [107.二叉树的层次遍历ii](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)  
+2020.06.20, medium, tree, [230. 二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)  
+2020.06.20, easy, tree, [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)  
+2020.06.20, medium, dfs, [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)  
+
