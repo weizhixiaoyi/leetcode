@@ -80,4 +80,6 @@
 2020.06.20, medium, tree, [230. 二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)  
 2020.06.20, easy, tree, [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)  
 2020.06.20, medium, dfs, [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)  
-
+2020.06.21, medium, bfs, [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)  
+2020.06.21, medium, bfs, [200.岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)  
+2020.06.21, medium, dfs;dp, [494.目标和](https://leetcode-cn.com/problems/target-sum/)  
