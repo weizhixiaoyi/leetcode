@@ -83,3 +83,7 @@
 2020.06.21, medium, bfs, [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)  
 2020.06.21, medium, bfs, [200.岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)  
 2020.06.21, medium, dfs;dp, [494.目标和](https://leetcode-cn.com/problems/target-sum/)  
+2020.06.22, medium, bfs, [127.单词接龙](https://leetcode-cn.com/problems/word-ladder/)  
+2020.06.22, medium, bfs, [542.01矩阵](https://leetcode-cn.com/problems/01-matrix/)  
+2020.06.22, medium, math, [633.平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/)  
+
