@@ -86,4 +86,8 @@
 2020.06.22, medium, bfs, [127.单词接龙](https://leetcode-cn.com/problems/word-ladder/)  
 2020.06.22, medium, bfs, [542.01矩阵](https://leetcode-cn.com/problems/01-matrix/)  
 2020.06.22, easy, math, [633.平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/)  
+2020.06.23, easy, math, [172.阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)  
+2020.06.23, easy, math, [202.快乐数](https://leetcode-cn.com/problems/happy-number/)  
+2020.06.23, easy, math, [204.计算质数](https://leetcode-cn.com/problems/count-primes/)  
+2020.06.23, easy, math, [263.丑数](https://leetcode-cn.com/problems/ugly-number/)  
 
