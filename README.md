@@ -90,4 +90,9 @@
 2020.06.23, easy, math, [202.快乐数](https://leetcode-cn.com/problems/happy-number/)  
 2020.06.23, easy, math, [204.计算质数](https://leetcode-cn.com/problems/count-primes/)  
 2020.06.23, easy, math, [263.丑数](https://leetcode-cn.com/problems/ugly-number/)  
+2020.06.24, easy, math, [9.回文数](https://leetcode-cn.com/problems/palindrome-number/)  
+2020.06.24, easy, math;binarysearch, [69.x的平方根](https://leetcode-cn.com/problems/sqrtx/)  
+2020.06.24, medium, math, [640.求解方程](https://leetcode-cn.com/problems/solve-the-equation/)  
+2020.06.24, easy, math, [877.石子游戏](https://leetcode-cn.com/problems/stone-game/)  
+2020.06.24, easy, tree, [110.平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)  
 
