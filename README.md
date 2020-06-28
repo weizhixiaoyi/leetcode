@@ -95,4 +95,8 @@
 2020.06.24, medium, math, [640.求解方程](https://leetcode-cn.com/problems/solve-the-equation/)  
 2020.06.24, medium, math, [877.石子游戏](https://leetcode-cn.com/problems/stone-game/)  
 2020.06.24, easy, tree, [110.平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)  
+2020.06.28, medium, math, [50.Pow(x,n)](https://leetcode-cn.com/problems/powx-n/)  
+2020.06.28, medium, math, [29.两数相除](https://leetcode-cn.com/problems/divide-two-integers/)  
+2020.06.28, medium, linked list, [61.旋转链表](https://leetcode-cn.com/problems/rotate-list/)  
+2020.06.28, medium, linked list, [23.合并K个有序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)  
 

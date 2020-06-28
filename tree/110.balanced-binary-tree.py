@@ -12,6 +12,7 @@ class Solution:
     def isBalanced(self, root: TreeNode) -> bool:
         self.ans = True
 
+        # 此处可定义self.ans来存储结果, 也可利用return -1来返回结果
         def helper(root):
             if root is None: return 0
 
