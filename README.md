@@ -98,5 +98,5 @@
 2020.06.28, medium, math, [50.Pow(x,n)](https://leetcode-cn.com/problems/powx-n/)  
 2020.06.28, medium, math, [29.两数相除](https://leetcode-cn.com/problems/divide-two-integers/)  
 2020.06.28, medium, linked list, [61.旋转链表](https://leetcode-cn.com/problems/rotate-list/)  
-2020.06.28, medium, linked list, [23.合并K个有序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)  
+2020.06.28, hard, linked list, [23.合并K个有序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)  
 
