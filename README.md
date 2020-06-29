@@ -99,4 +99,8 @@
 2020.06.28, medium, math, [29.两数相除](https://leetcode-cn.com/problems/divide-two-integers/)  
 2020.06.28, medium, linked list, [61.旋转链表](https://leetcode-cn.com/problems/rotate-list/)  
 2020.06.28, hard, linked list, [23.合并K个有序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)  
+2020.06.29, easy, linked list, [83.删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)  
+2020.06.29, medium, linked list, [92.反转链表II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)  
+2020.06.29, easy, tree, [543.二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)  
+2020.06.29, medium, tree, [129.求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)  
 

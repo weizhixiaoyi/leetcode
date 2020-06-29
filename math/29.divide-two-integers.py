@@ -22,6 +22,7 @@ class Solution:
 
         # 依次进行相减会超时, 采用递归的方法, 每次进行加半寻找解空间.
         def helper(a, b):
+            # 截止条件
             if a < b: return 0
 
             count = 1
@@ -29,6 +30,8 @@ class Solution:
             while value + value < a:
                 count += count
                 value += value
+
+            # 递归依次处理
             return count + helper(a - value, b)
 
         ans = helper(dividend, divisor)
