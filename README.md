@@ -107,4 +107,8 @@
 2020.06.30, 中等, 链表, [24.两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)  
 2020.06.30, 中等, 树, [144.二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)  
 2020.06.30, 简单, 双指针, [392.判断子序列](https://leetcode-cn.com/problems/is-subsequence/)  
+2020.07.01, 中等, 链表, [82.删除排序链表中的重复元素II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)  
+2020.07.01, 中等, 树, [199.二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)  
+2020.07.01, 中等, 树, [103.二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)  
+2020.07.01, 中等, 动态规划, [152.乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/)  
 

@@ -15,6 +15,7 @@ def printList(head):
 
 
 class Solution:
+    # 头部节点不好处理, 可增加在头部增加哨兵节点, 将头部节点转变为中间节点
     def removeElements(self, head: ListNode, val: int) -> ListNode:
         if head is None: return None
         temp = head
