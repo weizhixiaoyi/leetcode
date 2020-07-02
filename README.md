@@ -1,13 +1,11 @@
 ### [LeetCode](https://leetcode-cn.com/problemset/all/)  
 
 2020.03.01, 简单, 链表, [21.merge-two-sorted-lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)  
-2020.03.01, 简单, 链表, [141.linked-list-cycle](https://leetcode-cn.com/problems/linked-list-cycle/)  
 2020.03.01, 简单, 链表, [160.intersection-of-two-linked-lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)  
 2020.03.02, 简单, 链表, [206.reverse-linked-list](https://leetcode-cn.com/problems/reverse-linked-list/)  
 2020.03.02, 简单, 链表, [234.palindrome-linked-list](https://leetcode-cn.com/problems/palindrome-linked-list/)  
 2020.03.03, 中等, 链表, [2.add-two-numbers](https://leetcode-cn.com/problems/add-two-numbers/)  
 2020.03.03, 中等, 链表, [19.remove-nth-node-from-end-of-list](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)  
-2020.03.03, 中等, 链表, [142.linked-list-cycle-ii](https://leetcode-cn.com/problems/linked-list-cycle-ii/)  
 2020.03.04, 简单, 栈, [155.min-stack](https://leetcode-cn.com/problems/min-stack/)  
 2020.03.04, 简单, 栈, [20.valid-parentheses](https://leetcode-cn.com/problems/valid-parentheses/)  
 2020.03.04, 中等, 栈, [739.daily-temperatures](https://leetcode-cn.com/problems/daily-temperatures/)  
@@ -111,4 +109,8 @@
 2020.07.01, 中等, 树, [199.二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)  
 2020.07.01, 中等, 树, [103.二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)  
 2020.07.01, 中等, 动态规划, [152.乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/)  
+2020.07.02, 简单, 链表, [141.环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)  
+2020.07.02, 中等, 链表, [142.环形链表II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)  
+2020.07.02, 简单, 动态规划, [746.使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)  
+2020.07.02, 中等, 动态规划, [213.打家劫舍](https://leetcode-cn.com/problems/house-robber-ii/)  
 
