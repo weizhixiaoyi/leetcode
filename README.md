@@ -113,4 +113,7 @@
 2020.07.02, 中等, 链表, [142.环形链表II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)  
 2020.07.02, 简单, 动态规划, [746.使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)  
 2020.07.02, 中等, 动态规划, [213.打家劫舍](https://leetcode-cn.com/problems/house-robber-ii/)  
+2020.07.04, 中等, 字符串， [3.无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)  
+2020.07.04, 中等, 贪心, [55.跳跃游戏](https://leetcode-cn.com/problems/jump-game/)  
+2020.07.04, 中等, 贪心, [134.加油站](https://leetcode-cn.com/problems/gas-station/)  
 
