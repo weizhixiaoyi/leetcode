@@ -10,10 +10,6 @@ class Solution:
         if intervals_len == 1: return 0
 
         intervals = sorted(intervals, key=lambda d: d[1])
-        # intervals = sorted(intervals, key=lambda d: d[0])
-        # print(intervals)
-        # for i, v in enumerate(intervals):
-        #     print(i, v)
 
         ans = 0
         pre = intervals[0]
