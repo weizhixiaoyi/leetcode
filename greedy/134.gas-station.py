@@ -47,11 +47,10 @@ class Solution:
             total += (gas[i] - cost[i])
             cur += (gas[i] - cost[i])
 
-            # 如果从A到B的油量不够, 那么从其他位置出发位置也是不够的
             if cur < 0:
                 cur = 0
                 start = i + 1
-        if total < 0 or cur < 0:
+        if total < 0:
             return -1
         return start
 

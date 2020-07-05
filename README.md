@@ -116,4 +116,8 @@
 2020.07.04, 中等, 字符串， [3.无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)  
 2020.07.04, 中等, 贪心, [55.跳跃游戏](https://leetcode-cn.com/problems/jump-game/)  
 2020.07.04, 中等, 贪心, [134.加油站](https://leetcode-cn.com/problems/gas-station/)  
+2020.07.05, 中等, 动态规划, [376.摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/)  
+2020.07.05, 简单, 贪心, [455.分发饼干](https://leetcode-cn.com/problems/assign-cookies/)  
+2020.07.05, 中等, 贪心, [763.划分字母区间](https://leetcode-cn.com/problems/partition-labels/)  
+2020.07.05, 中等, 贪心, [435.无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/)  
 
