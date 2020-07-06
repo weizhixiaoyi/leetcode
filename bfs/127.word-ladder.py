@@ -15,6 +15,7 @@ class Solution:
         for word in wordList:
             for i in range(wordLen):
                 diff[word[0:i] + "*" + word[i + 1:]].append(word)
+        print(diff)
 
         from queue import Queue
         q = Queue()

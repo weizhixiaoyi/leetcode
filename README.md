@@ -121,4 +121,7 @@
 2020.07.05, 中等, 贪心, [763.划分字母区间](https://leetcode-cn.com/problems/partition-labels/)  
 2020.07.05, 中等, 贪心, [435.无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/)  
 2020.07.05, 中等, 贪心, [452.用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/)  
+2020.07.06, 中等, 贪心, [621.任务调度器](https://leetcode-cn.com/problems/task-scheduler/)  
+2020.07.06, 中等, 动态规划, [322.零钱兑换](https://leetcode-cn.com/problems/coin-change/)  
+2020.07.06, 中等, 动态规划, [139.单词拆分](https://leetcode-cn.com/problems/word-break/)  
 
