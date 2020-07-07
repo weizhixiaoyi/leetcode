@@ -124,4 +124,7 @@
 2020.07.06, 中等, 贪心, [621.任务调度器](https://leetcode-cn.com/problems/task-scheduler/)  
 2020.07.06, 中等, 动态规划, [322.零钱兑换](https://leetcode-cn.com/problems/coin-change/)  
 2020.07.06, 中等, 动态规划, [139.单词拆分](https://leetcode-cn.com/problems/word-break/)  
+2020.07.07, 中等, 动态规划, [120.三角形最小路径和](https://leetcode-cn.com/problems/triangle/)  
+2020.07.07, 中等, 动态规划, [983.最低票价](https://leetcode-cn.com/problems/minimum-cost-for-tickets/)  
+2020.07.07, 中等, 动态规划, [718.最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) 
 
