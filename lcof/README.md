@@ -10,5 +10,5 @@
 2020.07.10, 简单, 递归, [10.2青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)  
 2020.07.10, 简单, 数组, [11.旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)  
 2020.07.10, 中等, 递归, [12.矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)  
-2020.07.10, 简单, 链表， [24.反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)  
+2020.07.10, 简单, 链表, [24.反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)  
 
