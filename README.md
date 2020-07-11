@@ -129,4 +129,5 @@
 2020.07.07, 中等, 动态规划, [718.最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)   
 2020.07.08, 中等, 动态规划, [343.整数拆分](https://leetcode-cn.com/problems/integer-break/)  
 2020.07.08, 中等, 动态规划, [416.分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)  
+2020.07.11, 中等, 动态规划, [486.预测玩家](https://leetcode-cn.com/problems/predict-the-winner/)  
 
