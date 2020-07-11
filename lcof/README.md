@@ -10,5 +10,13 @@
 2020.07.10, 简单, 递归, [10.2青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)  
 2020.07.10, 简单, 数组, [11.旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)  
 2020.07.10, 中等, 递归, [12.矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)  
+2020.07.11, 中等, 宽度优先搜索, [13.机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)  
+2020.07.11, 中等, 递归, [14.1剪绳子I](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/)  
+2020.07.11, 中等, 递归, [14.2剪绳子II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/)  
+2020.07.11, 简单, 位运算, [15.二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)  
+2020.07.11, 中等, 数学, [16.数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)  
+2020.07.11, 简单, 数学, [17.打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/)  
+2020.07.11, 简单, 链表, [18.删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)  
 2020.07.10, 简单, 链表, [24.反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)  
+
 
