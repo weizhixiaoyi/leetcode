@@ -17,6 +17,10 @@
 2020.07.11, 中等, 数学, [16.数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)  
 2020.07.11, 简单, 数学, [17.打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/)  
 2020.07.11, 简单, 链表, [18.删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)  
+2020.07.12, 困难, 动态规划, [19.正则表达式匹配](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof/)  
+2020.07.12, 中等, 模拟, [20.表示数值的字符串](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/)  
+2020.07.12, 简单, 双指针, [21.调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)  
+2020.07.12, 简单, 链表, [22.链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)  
 2020.07.10, 简单, 链表, [24.反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)  
-
+2020.07.12, 简单, 链表, [25.合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)  
 
