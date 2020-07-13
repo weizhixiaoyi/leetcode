@@ -23,4 +23,10 @@
 2020.07.12, 简单, 链表, [22.链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)  
 2020.07.10, 简单, 链表, [24.反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)  
 2020.07.12, 简单, 链表, [25.合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)  
+2020.07.13, 中等, 树, [26.树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/)  
+2020.07.13, 简单, 树, [27.二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/)  
+2020.07.13, 简单, 树, [28.对称二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/)  
+2020.07.13, 简单, 模拟, [29.顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)  
+2020.07.13, 简单, 栈, [30.包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/)  
+2020.07.13, 中等, 栈, [31.栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)  
 
