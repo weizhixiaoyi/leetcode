@@ -47,5 +47,6 @@ class Solution:
 
 
 if __name__ == '__main__':
-    n = 7
+    n = 3
     ans = Solution().allPossibleFBT(n)
+    print(ans)
