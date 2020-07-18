@@ -15,6 +15,6 @@ class Solution:
 
 
 if __name__ == '__main__':
-    n = 50
+    n = 5
     ans = Solution().trailingZeroes(n)
     print('ans: ', ans)

@@ -40,5 +40,8 @@
 2020.07.16, 简单, 数组, [39.数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/)  
 2020.07.16, 简单, 堆; 数组, [40.最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)  
 2020.07.16, 困难, 堆; 数组, [41.数据流中的中位数](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/)  
+2020.07.17, 简单, 动态规划, [42.连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)  
+2020.07.17, 简单, 递归, [45.把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)  
+2020.07.18, 简单, 动态规划, [46.把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)  
 
 
