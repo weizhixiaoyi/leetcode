@@ -41,7 +41,12 @@
 2020.07.16, 简单, 堆; 数组, [40.最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)  
 2020.07.16, 困难, 堆; 数组, [41.数据流中的中位数](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/)  
 2020.07.17, 简单, 动态规划, [42.连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)  
+2020.07.19, 中等, 数学, [43.1～n整数中1出现的次数](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/)  
+2020.07.19, 中等, 数学, [44.数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/)  
 2020.07.17, 简单, 递归, [45.把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)  
 2020.07.18, 简单, 动态规划, [46.把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)  
+2020.07.19, 中等, 数学, [49.丑数](https://leetcode-cn.com/problems/chou-shu-lcof/)  
+2020.07.19, 简单, 字符串, [50.第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)  
+
 
 
