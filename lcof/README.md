@@ -56,6 +56,13 @@
 2020.07.21, 简单, 树, [54.二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/)  
 2020.07.21, 简单, 树, [55.1二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/)  
 2020.07.21, 简单, 树, [55.2平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/)  
-2020.07.21, 中等, 位运算, [56.数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)  
+2020.07.21, 中等, 位运算, [56.1数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)  
+2020.07.22, 中等, 位运算, [56.2数组中数字出现的次数II](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/)  
+2020.07.22, 简单, 数组; 双指针, [57.1和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/)  
+2020.07.22, 简单, 数组; 滑动窗口, [57.2和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)  
+2020.07.22, 简单, 字符串, [58.1翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/)  
+2020.07.22, 简单, 字符串, [58.2左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)  
+2020.07.22, 简单, 滑动窗口; 单调队列, [59.1滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/)  
+2020.07.22, 中等, 单调队列, [59.2队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)  
 
 
