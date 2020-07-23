@@ -64,5 +64,9 @@
 2020.07.22, 简单, 字符串, [58.2左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)  
 2020.07.22, 简单, 滑动窗口; 单调队列, [59.1滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/)  
 2020.07.22, 中等, 单调队列, [59.2队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)  
-
+2020.07.23, 简单, 动态规划, [60.n个骰子的点数](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/)  
+2020.07.23, 简单, 数组, [61.扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/)  
+2020.07.23, 简单, 数学, [62.圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)  
+2020.07.23, 中等, 数组, [63.股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/)  
+2020.07.23, 中等, 数学, [64.求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)  
 
