@@ -69,4 +69,7 @@
 2020.07.23, 简单, 数学, [62.圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)  
 2020.07.23, 中等, 数组, [63.股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/)  
 2020.07.23, 中等, 数学, [64.求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)  
+2020.07.24, 简单, 数组, [66.构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/)  
+2020.07.24, 简单, 树, [67.1二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/)  
+2020.07.24, 简单, 树, [67.2二叉树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/)  
 
