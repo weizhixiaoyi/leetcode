@@ -11,47 +11,7 @@ for i in range(n):
     line = [int(v) for v in line]
     matrix.append(line)
 
-# n, m, k = 3, 3, 1
-# matrix = [
-#     [1, 3, 3],
-#     [2, 4, 9],
-#     [8, 9, 2]
-# ]
-
-# def solve(start_i, start_j, cur_k):
-#     flag = [[False for j in range(m)] for i in range(n)]
-#     dx = [-1, 0, 1, 0]
-#     dy = [0, 1, 0, -1]
-#
-#     from queue import Queue
-#     q = Queue()
-#     level = 1
-#     q.put((start_i, start_j, level))
-#     ans = 1
-#
-#     while not q.empty():
-#         cur = q.get()
-#         cur_x, cur_y, cur_level = cur[0], cur[1], cur[2]
-#
-#         for k in range(4):
-#             new_x = cur_x + dx[k]
-#             new_y = cur_y + dy[k]
-#
-#             if (0 <= new_x < n) and (0 <= new_y < m) and (matrix[new_x][new_y] > matrix[cur_x][cur_y]):
-#                 cur_level += 1
-#                 q.put((new_x, new_y, cur_level))
-#                 ans = max(ans, cur_level)
-#
-#             if (0 <= new_x < n) and (0 <= new_y < m) and (matrix[new_x][new_y] <= matrix[cur_x][cur_y]) and (
-#                     cur_k >= 1):
-#                 q.put((new_x, new_y, cur_level))
-#                 cur_k -= 1
-#                 ans = max(ans, cur_level)
-#
-#     return ans
-
 memo = [[[0 for kk in range(12)] for j in range(502)] for i in range(502)]
-
 dx = [-1, 0, 1, 0]
 dy = [0, 1, 0, -1]
 
