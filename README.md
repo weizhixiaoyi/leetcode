@@ -134,4 +134,5 @@
 2020.07.30, 中等, 字符串, [43.字符串相乘](https://leetcode-cn.com/problems/multiply-strings/)  
 2020.08.04, 中等, 回溯, [46.全排列](https://leetcode-cn.com/problems/permutations/)  
 2020.08.04, 中等, 回溯, [47.全排列II](https://leetcode-cn.com/problems/permutations-ii/)  
- 
+2020.08.05, 中等, 数组, [25.三数之和](https://leetcode-cn.com/problems/3sum/)  
+2020.08.05, 中等, 数组, [26.四数之和](https://leetcode-cn.com/problems/4sum/)  
