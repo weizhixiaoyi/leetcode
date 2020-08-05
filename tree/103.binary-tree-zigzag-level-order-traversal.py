@@ -67,7 +67,6 @@ class Solution:
             if root.right:
                 helper(root.right, level + 1)
 
-
         helper(root, 0)
         ans = [list(v) for v in ans]
         return ans

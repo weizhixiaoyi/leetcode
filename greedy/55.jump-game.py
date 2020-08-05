@@ -16,8 +16,8 @@ class Solution:
         return False
 
 
-
 if __name__ == '__main__':
     nums = [2, 3, 1, 1, 4]
     ans = Solution().canJump(nums)
     print(ans)
+

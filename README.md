@@ -132,4 +132,6 @@
 2020.07.11, 中等, 动态规划, [486.预测玩家](https://leetcode-cn.com/problems/predict-the-winner/)  
 2020.07.30, 简单, 字符串, [415.字符串相加](https://leetcode-cn.com/problems/add-strings/)  
 2020.07.30, 中等, 字符串, [43.字符串相乘](https://leetcode-cn.com/problems/multiply-strings/)  
+2020.08.04, 中等, 回溯, [46.全排列](https://leetcode-cn.com/problems/permutations/)  
+2020.08.04, 中等, 回溯, [47.全排列II](https://leetcode-cn.com/problems/permutations-ii/)  
  

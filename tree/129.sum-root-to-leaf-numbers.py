@@ -12,6 +12,7 @@ class Solution:
     def sumNumbers(self, root: TreeNode) -> int:
         import copy
         self.paths, self.path = [], []
+
         def helper(root):
             if root is None: return 0
 
@@ -27,7 +28,7 @@ class Solution:
         # print(self.paths)
         ans = 0
         for path in self.paths:
-            path_len  = len(path)
+            path_len = len(path)
             for k in range(0, path_len):
                 ans += (path[k] * pow(10, path_len - k - 1))
         # print(ans)
