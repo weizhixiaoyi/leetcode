@@ -136,3 +136,6 @@
 2020.08.04, 中等, 回溯, [47.全排列II](https://leetcode-cn.com/problems/permutations-ii/)  
 2020.08.05, 中等, 数组, [25.三数之和](https://leetcode-cn.com/problems/3sum/)  
 2020.08.05, 中等, 数组, [26.四数之和](https://leetcode-cn.com/problems/4sum/)  
+2020.08.05, 中等, 动态规划, [322.零钱兑换](https://leetcode-cn.com/problems/coin-change/)  
+2020.08.05, 中等, 动态规划, [518.零钱兑换II](https://leetcode-cn.com/problems/coin-change-2/)  
+
