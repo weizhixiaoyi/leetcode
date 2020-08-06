@@ -39,16 +39,17 @@ class Solution:
         ans = []
         for i, word in enumerate(words):
             word_len = len(word)
-            for k in range(0, word_len):
-                print(word[k:], word[:k])
+            for k in range(0, word_len + 1):
                 if self.par(word[k:]) and word[:k] in rev_words_dict:
                     j = rev_words_dict[word[:k]]
                     if i != j: ans.append([i, j])
 
-            if word in rev_words_dict:
-                j = rev_words_dict[word]
-                if i != j: ans.append([j, i])
+                if self.par(word[:k]) and word[k:] in rev_words_dict:
+                    j = rev_words_dict[word[k:]]
+                    if i != j: ans.append([j, i])
 
+        ans = list(set(tuple(val) for val in ans))
+        ans = [list(val) for val in ans]
         return ans
 
     def par(self, cur_s):
@@ -63,9 +64,9 @@ class Solution:
 
 
 if __name__ == '__main__':
-    words = ["abcd", "dcba", "lls", "s", "sssll"]
+    # words = ["abcd", "dcba", "lls", "s", "sssll"]
     # words = ['a', '']
-    # words = ["a", "abc", "aba", ""]
+    words = ["a", "abc", "aba", ""]
     ans = Solution().palindromePairs(words)
     print(ans)
     # print(Solution().par('aba'))
