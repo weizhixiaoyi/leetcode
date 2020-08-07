@@ -27,12 +27,7 @@ public:
             return res;
         }
 
-        queue<TreeNode *> q; q.push(root);
-        while (!q.empty()) {
-            vector<int> level;
-            int count = q.size();
-            // bfs方法依次处理每一次, 对当前层元素进行记录, 然后截断处理。
-            while (count--) {
+        queue<TreeNode *> q; q.push(
                 auto *cur = q.front(); q.pop();
                 level.push_back(cur->val);
                 if (cur->left != nullptr) {
@@ -86,4 +81,9 @@ int main() {
         }
         cout << endl;
     }
-}
+root);
+        while (!q.empty()) {
+            vector<int> level;
+            int count = q.size();
+            // bfs方法依次处理每一次, 对当前层元素进行记录, 然后截断处理。
+            while (count--) {}
