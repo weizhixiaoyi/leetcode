@@ -138,4 +138,9 @@
 2020.08.05, 中等, 数组, [26.四数之和](https://leetcode-cn.com/problems/4sum/)  
 2020.08.05, 中等, 动态规划, [322.零钱兑换](https://leetcode-cn.com/problems/coin-change/)  
 2020.08.05, 中等, 动态规划, [518.零钱兑换II](https://leetcode-cn.com/problems/coin-change-2/)  
+2020.08.10, 简单, 字符串, [696.计数二进制子串](https://leetcode-cn.com/problems/count-binary-substrings/)  
+2020.08.10, 中等, 回溯, [39.组合总和](https://leetcode-cn.com/problems/combination-sum/)  
+2020.08.10, 中等, 回溯, [17.电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)  
+2020.08.10, 中等, 回溯, [78.子集](https://leetcode-cn.com/problems/subsets/)  
+
 
