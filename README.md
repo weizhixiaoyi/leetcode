@@ -142,5 +142,8 @@
 2020.08.10, 中等, 回溯, [39.组合总和](https://leetcode-cn.com/problems/combination-sum/)  
 2020.08.10, 中等, 回溯, [17.电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)  
 2020.08.10, 中等, 回溯, [78.子集](https://leetcode-cn.com/problems/subsets/)  
+2020.08.12, 中等, bfs, [130.被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)  
+2020.08.13, 困难, bfs, [1293.被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)  
+
 
 
