@@ -143,7 +143,15 @@
 2020.08.10, 中等, 回溯, [17.电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)  
 2020.08.10, 中等, 回溯, [78.子集](https://leetcode-cn.com/problems/subsets/)  
 2020.08.12, 中等, bfs, [130.被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)  
-2020.08.13, 困难, bfs, [1293.被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)  
-
+2020.08.13, 困难, bfs, [1293.网格中的最短路径](https://leetcode-cn.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)  
+2020.08.14, 中等, bfs, [994.腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/)  
+2020.08.14, 中等, dfs, [面试题16.19.水域大小](https://leetcode-cn.com/problems/pond-sizes-lcci/)  
+2020.08.14, 中等, bfs, [547.朋友圈](https://leetcode-cn.com/problems/friend-circles/)  
+2020.08.14, 中等, 数组, [912.排序数组](https://leetcode-cn.com/problems/sort-an-array/)  
+2020.08.14, 中等, 数组, [lcof.51.数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)  
+2020.08.15, 简单, 数组, [面试题10.01.合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/)    
+2020.08.15, 简单, 数组, [26.删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)  
+2020.08.15, 简单, 数组, [35.搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)  
+2020.08.15, 简单, 数组, [27.移除元素](https://leetcode-cn.com/problems/remove-element/)  
 
 
