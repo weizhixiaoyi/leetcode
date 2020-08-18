@@ -155,3 +155,5 @@
 2020.08.15, 简单, 数组, [27.移除元素](https://leetcode-cn.com/problems/remove-element/)  
 2020.08.16, 简单, bfs;dfs, [733.图像渲染](https://leetcode-cn.com/problems/flood-fill/)  
 2020.08.16, 简单, 数组, [16.最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)  
+2020.08.16, 中等, 二分, [33.搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  
+2020.08.18, 中等, 二分, [81.搜索旋转排序数组II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)  
