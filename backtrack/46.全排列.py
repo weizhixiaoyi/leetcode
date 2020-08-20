@@ -51,6 +51,6 @@ class Solution:
 
 
 if __name__ == '__main__':
-    nums = [i for i in range(1, 9 + 1)]
+    nums = [i for i in range(1, 3 + 1)]
     ans = Solution().permute(nums)
     print(ans)

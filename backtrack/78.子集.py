@@ -8,11 +8,14 @@ class Solution:
 
         ans = []
 
+        from copy import deepcopy
         def helper(start, path):
-            ans.append(path)
+            ans.append(deepcopy(path))
 
             for k in range(start, nums_len):
-                helper(k + 1, path + [nums[k]])
+                path.append(nums[k])
+                helper(k + 1, path)
+                path.pop()
 
         helper(0, [])
         return ans

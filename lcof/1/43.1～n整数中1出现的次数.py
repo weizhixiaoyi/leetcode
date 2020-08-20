@@ -7,6 +7,7 @@ class Solution:
         # 2304; high = 23, cur = 0, low = 4
         high, cur, low = n // 10, n % 10, 0
         while high != 0 or cur != 0:
+            print(cur)
             if cur == 0:
                 res += high * digit
             elif cur == 1:
@@ -22,6 +23,6 @@ class Solution:
 
 
 if __name__ == '__main__':
-    n = 12
+    n = 2304
     ans = Solution().countDigitOne(n)
     print(ans)
