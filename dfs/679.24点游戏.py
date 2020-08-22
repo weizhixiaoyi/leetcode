@@ -11,7 +11,6 @@ class Solution:
                 # print(nums[0])
                 if abs(nums[0] - target) < epsilon:
                     return True
-                return False
 
             for i, a in enumerate(nums):
                 for j, b in enumerate(nums):
