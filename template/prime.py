@@ -1,21 +1,18 @@
 # -*- coding:utf-8 -*-
 
+
 class Solution:
     def get_prime(self):
-        nums = 1000
-        nums_sqrt = int(nums ** 0.5)
-        isPrime = [True for i in range(0, nums)]
-        for i in range(2, nums_sqrt):
+        n = 1000
+        isPrime = [True for i in range(n + 1)]
+        for i in range(2, int(n ** 0.5)):
             if isPrime[i]:
-                for j in range(i*i, nums, i):
+                for j in range(i * i, n, i):
                     isPrime[j] = False
 
-        prime = [i for i in range(2, nums) if isPrime[i] == True]
+        prime = [i for i in range(2, n) if isPrime[i] is True]
         print(prime)
+
 
 if __name__ == '__main__':
     Solution().get_prime()
-
-
-
-
