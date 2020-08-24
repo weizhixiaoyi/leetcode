@@ -128,3 +128,10 @@ l1[2][0] = "#"
 print(l, l1, l2)
 # [1, 2, ['#', 4]] [1, 2, ['#', 4], 5] [1, 2, [3, 4]]
 """
+
+
+from collections import Iterable
+from collections import Iterator
+print(isinstance({}, Iterable))
+print(isinstance({}, Iterator))
+from itertools import permutations
