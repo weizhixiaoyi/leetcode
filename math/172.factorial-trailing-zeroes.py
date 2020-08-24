@@ -13,8 +13,7 @@ class Solution:
         return ans
 
 
-
 if __name__ == '__main__':
-    n = 5
+    n = 25
     ans = Solution().trailingZeroes(n)
     print('ans: ', ans)

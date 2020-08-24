@@ -4,11 +4,12 @@ from functools import reduce
 
 
 def get_C(n, k):
+    import math
     if n == k: return 1
     if k == 1: return n
-    mul_n = reduce(lambda x, y: x * y, [i + 1 for i in range(n)])
-    mul_k = reduce(lambda x, y: x * y, [i + 1 for i in range(k)])
-    mul_n_k = reduce(lambda x, y: x * y, [i + 1 for i in range(n - k)])
+    mul_n = math.factorial(n)
+    mul_k = math.factorial(k)
+    mul_n_k = math.factorial(n - k)
     return mul_n // (mul_k * mul_n_k)
 
 
@@ -40,13 +41,3 @@ if __name__ == '__main__':
     n = 5
     # ans = solve(n)
     # print(ans)
-
-    # for i in range(1, 11):
-    #     print(i)
-    #     print(solve(i))
-    #     print()
-
-import math
-print(math.factorial(4))
-
-
