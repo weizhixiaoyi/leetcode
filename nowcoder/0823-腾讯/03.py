@@ -16,14 +16,6 @@ def solve(n):
     ans = 0
     value = 1000000007
 
-    # for i in range(1, n + 1):
-    #     a = get_C(n, i)
-    #     b = get_C(i, 1)
-    #     print(a * b, end=' ')
-    #     ans += (a * b % value)
-    # print()
-    # return ans
-
     if n % 2 == 0:
         for i in range(1, n // 2 + 1):
             a = get_C(n, i)
@@ -45,11 +37,16 @@ def solve(n):
 
 if __name__ == '__main__':
     # n = int(input())
-    # n = 5
+    n = 5
     # ans = solve(n)
     # print(ans)
 
-    for i in range(1, 11):
-        print(i)
-        print(solve(i))
-        print()
+    # for i in range(1, 11):
+    #     print(i)
+    #     print(solve(i))
+    #     print()
+
+import math
+print(math.factorial(4))
+
+
