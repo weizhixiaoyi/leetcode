@@ -15,7 +15,7 @@ class Solution:
             ans.append(deepcopy(path))
 
             for k in range(start, nums_len):
-                if k > 0 and nums[k] == nums[k - 1] and not used[k - 1]: continue
+                if k > start and nums[k] == nums[k - 1] and not used[k - 1]: continue
                 path.append(nums[k])
                 used[k] = True
                 helper(k + 1, path)
