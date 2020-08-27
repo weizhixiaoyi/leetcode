@@ -15,6 +15,12 @@ class Solution:
                     self.fa[x] = self.find(self.fa[x])
                 return self.fa[x]
 
+            # 非路径压缩
+            # def find(self, x):
+            #     while x != self.fa[x]:
+            #         x = self.fa[x]
+            #     return x
+
             def union(self, x, y):
                 fx, fy = self.find(x), self.find(y)
                 if fx != fy:
