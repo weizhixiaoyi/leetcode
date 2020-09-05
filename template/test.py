@@ -1,17 +1,28 @@
 # -*- coding:utf-8 -*-
 
-def solve(nums):
-    if len(nums) == 0:
-        return 0
 
-    left = nums[0] - solve(nums[1:])
-    right = nums[-1] - solve(nums[0:-1])
+from copy import copy
+from copy import deepcopy
 
-    return max(left, right)
+a = '123'
+b = a
+print(id(a), id(b))
+c = copy(a)
+d = deepcopy(a)
+print(id(c), id(d))
 
+print()
+a_list = [1, 2, 3]
+b_list = a_list
+print(id(a_list), id(b_list))
+c_list = copy(a_list)
+d_list = deepcopy(a_list)
+print(id(c_list), id(d_list))
+print()
 
-if __name__ == '__main__':
-    # nums = [1, 5, 2]
-    nums = [1, 5, 233, 7]
-    ans = solve(nums)
-    print(ans)
+aa_list = [[1, 2, 3], 4, 5]
+bb_list = aa_list
+print(id(aa_list), id(bb_list))
+cc_list = copy(aa_list)
+dd_list = deepcopy(aa_list)
+print(id(cc_list), id(dd_list))

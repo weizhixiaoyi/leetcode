@@ -49,7 +49,3 @@ if __name__ == '__main__':
     for line in sys.stdin:
         ans = solve(line)
         print(ans)
-
-    # line = "time:月,time:日,loc:小区,loc:超市;5月1号在新龙城或浩客见;月 月 日 日 O 小区 小区 小区 O 超市 超市 O"
-    # ans = solve(line)
-    # print(ans)
