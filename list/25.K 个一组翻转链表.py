@@ -37,8 +37,8 @@ class Solution:
             if not end: break
 
             start, next = pre.next, end.next
-
             end.next = None
+
             pre.next = self.reverse_head_tail(start)
             start.next = next
 

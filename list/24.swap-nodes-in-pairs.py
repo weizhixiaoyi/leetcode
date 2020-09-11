@@ -15,6 +15,7 @@ def printList(head):
 
 
 class Solution:
+    """
     def swapPairs(self, head: ListNode) -> ListNode:
         if head is None: return head
 
@@ -57,18 +58,34 @@ class Solution:
 
         # printList(temp.next)
         return temp.next
+    """
+
+    def swapPairs(self, head: ListNode) -> ListNode:
+        dummy = ListNode(-1)
+        dummy.next = head
+
+        cur = dummy
+        while cur.next and cur.next.next:
+            start, end = cur.next, cur.next.next
+            cur.next = end
+            start.next = end.next
+            end.next = start
+
+            cur = start
+
+        return dummy.next
 
 
 if __name__ == '__main__':
     t1 = ListNode(1)
-    # t2 = ListNode(2)
-    # t3 = ListNode(3)
-    # t4 = ListNode(4)
-    # t5 = ListNode(5)
-    # t1.next = t2
-    # t2.next = t3
-    # t3.next = t4
-    # t4.next = t5
+    t2 = ListNode(2)
+    t3 = ListNode(3)
+    t4 = ListNode(4)
+    t5 = ListNode(5)
+    t1.next = t2
+    t2.next = t3
+    t3.next = t4
+    t4.next = t5
     printList(t1)
     ans = Solution().swapPairs(t1)
     printList(ans)
