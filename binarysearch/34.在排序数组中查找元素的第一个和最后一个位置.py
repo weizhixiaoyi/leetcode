@@ -10,6 +10,7 @@ class Solution:
             left, right = 0, len(nums) - 1
             while left < right:
                 mid = (left + right) // 2
+                # 不满足的条件
                 if nums[mid] < target:
                     left = mid + 1
                 else:
@@ -20,7 +21,8 @@ class Solution:
             left, right = 0, len(nums) - 1
             while left < right:
                 mid = (left + right + 1) // 2
-                print(left, mid, right)
+                # print(left, mid, right)
+                # 不满足的条件
                 if nums[mid] > target:
                     right = mid - 1
                 else:
