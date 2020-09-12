@@ -17,3 +17,6 @@ if __name__ == '__main__':
     n = 25
     ans = Solution().trailingZeroes(n)
     print('ans: ', ans)
+
+
+s = {"a": 1, "b": 2}
