@@ -1,28 +1,9 @@
 # -*- coding:utf-8 -*-
 
+a = [1, 2, 3]
+b = [3, 4, 5]
 
-from copy import copy
-from copy import deepcopy
+a_dict = {1: 0, 2: 0}
+b_dict = {2: 0, 3: 0}
+print(a_dict & b_dict)
 
-a = '123'
-b = a
-print(id(a), id(b))
-c = copy(a)
-d = deepcopy(a)
-print(id(c), id(d))
-
-print()
-a_list = [1, 2, 3]
-b_list = a_list
-print(id(a_list), id(b_list))
-c_list = copy(a_list)
-d_list = deepcopy(a_list)
-print(id(c_list), id(d_list))
-print()
-
-aa_list = [[1, 2, 3], 4, 5]
-bb_list = aa_list
-print(id(aa_list), id(bb_list))
-cc_list = copy(aa_list)
-dd_list = deepcopy(aa_list)
-print(id(cc_list), id(dd_list))

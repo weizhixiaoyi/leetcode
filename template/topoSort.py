@@ -1,6 +1,7 @@
 # -*- coding:utf-8 -*-
 
 
+"""
 def topoSort(graph):
     in_degrees = dict((u, 0) for u in graph)  # 初始化所有顶点入度为0
     num = len(in_degrees)
@@ -18,6 +19,31 @@ def topoSort(graph):
                 Q.append(v)  # 再次筛选入度为0的顶点
     if len(Seq) == num:  # 输出的顶点数是否与图中的顶点数相等
         return Seq
+    else:
+        return None
+"""
+
+
+def topoSort(graph):
+    # 节点入度
+    in_degrees = dict((u, 0) for u in graph)
+    for u in graph:
+        for v in graph[u]:
+            in_degrees[v] += 1
+
+    # 入度为0的节点
+    Q = [u for u in in_degrees if in_degrees[u] == 0]
+    ans = []
+    while Q:
+        u = Q.pop()
+        ans.append(u)
+        for v in graph[u]:
+            in_degrees[v] -= 1
+            if in_degrees[v] == 0:
+                Q.append(v)
+
+    if len(ans) == len(graph):
+        return ans
     else:
         return None
 
