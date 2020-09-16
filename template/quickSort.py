@@ -1,5 +1,6 @@
 # -*- coding:utf-8 -*-
 
+
 def quickSort(nums, i, j):
     if i >= j: return []
     pivot = nums[i]
