@@ -50,8 +50,6 @@ class Solution:
 if __name__ == '__main__':
     nums = [1, 2, 5]
     target = 9
-    # nums = [1, 2]
-    # target = 3
 
     ans = Solution().solve(nums, target)
     print(ans)
