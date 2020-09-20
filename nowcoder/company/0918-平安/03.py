@@ -23,7 +23,6 @@ class Solution:
                     ans.append(0)
         return ans
 
-
 if __name__ == '__main__':
     line = input().replace('[', '').replace(']', '').replace('\"', '')
     line = line.split(',')
