@@ -30,6 +30,7 @@ def topoSort(graph):
     for u in graph:
         for v in graph[u]:
             in_degrees[v] += 1
+    print(in_degrees)
 
     # 入度为0的节点
     Q = [u for u in in_degrees if in_degrees[u] == 0]
